@@ -1,0 +1,20 @@
+Elasticsearch
+    100% open source with no plans for commercial product
+    Wikipedia is powered by elasticsearch
+    Microsoft is using Elasticsearch for AD caching / Azure
+    Shard size 30-50gb for optimization
+    
+Questions:
+    Is there a good ratio of masters to minion nodes? 2 masters with max of 3
+    Rolling upgrades: turn off the rebalancing / redistrbution. Then upgrade, turn it back on when done with upgrades
+    
+Things to check out
+    EM4J VMware memory sharing
+    Elasticsearch IRC
+    uncommonly common video from elasticsearch engineer
+    Marvel ? enterprise offering
+
+Takeaways:
+    Get involved in some opensource projects
+    Filter first query second
+    Check elasticsearch next friday on github for virtualbox / vagrant
